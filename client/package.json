@@ -43,7 +43,7 @@
     "dependencies": {
         "axios": "^0.21.1",
         "clipboard-event": "^1.5.0",
-        "electron-acrylic-window": "^0.5.5",
+        "electron-acrylic-window": "^0.5.8",
         "electron-overlay": "file:../electron-overlay",
         "electron-squirrel-startup": "^1.0.0",
         "electron-store": "^8.0.0",
